@@ -1,5 +1,5 @@
 ### Hi, I'm Kelly!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellygabot)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellygabot&show_icons=true&theme=radical)]
 <!--
 **kellygabot/kellygabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
