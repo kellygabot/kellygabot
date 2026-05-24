@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=50&duration=4500&color=70a5fd&center=true&vCenter=true&width=750&height=75&lines=Hi,+I'm+Kelly!;an+Aspiring+ML+Engineer;">
+</div
+
 # 💫 About Me:
 I am a Computer Science student at National University Manila, specialized in Machine Learning.<br>I enjoy building automations and making my life easier.<br>I am currently building on my skills on machine learning and deep learning.<br>
 
